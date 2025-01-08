@@ -1,0 +1,32 @@
+html{
+    background-color: black;
+color: aliceblue;
+font-family: roboto, sans-serif
+}
+h1{
+    text-transform:uppercase;
+    text-align: center;
+}
+img{
+    width: 25%;
+    border: 5px white solid;
+    border-width: 5px 5px;
+    margin-left: 100px
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+.Contact{
+    color: aquamarine;
+}
+.Hobbies{
+    color: aquamarine;
+}
+#socials{
+    font-size: 20px;
+    text-align: center;
+}
+#hobbies{
+    font-size: 20px;
+}
